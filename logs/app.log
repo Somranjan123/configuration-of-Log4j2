@@ -1,0 +1,9 @@
+14:09:20.992 [main] INFO  SeleniumTest - Browser opened
+14:09:39.010 [main] INFO  SeleniumTest - Navigated to the login page
+14:09:41.815 [main] INFO  SeleniumTest - Login button clicked
+14:09:48.324 [main] INFO  SeleniumTest - Browser closed
+19:53:23.985 [main] INFO  SeleniumTest - Initializing WebDriver...
+19:53:56.619 [main] INFO  SeleniumTest - WebDriver initialized successfully.
+19:54:02.580 [main] INFO  SeleniumTest - Navigated to the login page
+19:54:06.839 [main] INFO  SeleniumTest - Login button clicked
+19:54:15.504 [main] INFO  SeleniumTest - Browser closed
